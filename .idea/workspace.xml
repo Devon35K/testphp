@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="$PROJECT_DIR$/../../../php/php.exe">
     <include_path>
       <path value="$PROJECT_DIR$/sendemail/vendor/phpmailer/language" />
       <path value="$PROJECT_DIR$/sendemail/vendor/composer" />
@@ -57,17 +57,11 @@
       <recent name="C:\xampp\htdocs\testphp\sendemail" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
-      <option name="pathToComposerJson" value="$PROJECT_DIR$/sendemail/composer.json" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PS-243.26053.13" />
-        <option value="bundled-php-predefined-a98d8de5180a-1ec7b7818973-com.jetbrains.php.sharedIndexes-PS-243.26053.13" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PS-251.23774.436" />
+        <option value="bundled-php-predefined-a98d8de5180a-aaeaa8632555-com.jetbrains.php.sharedIndexes-PS-251.23774.436" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +80,7 @@
       <workItem from="1746944690855" duration="1978000" />
       <workItem from="1746950532118" duration="364000" />
       <workItem from="1746951110657" duration="681000" />
+      <workItem from="1746952601001" duration="504000" />
     </task>
     <servers />
   </component>
