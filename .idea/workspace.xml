@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/sendemail/composer.json</pharConfigPath>
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer-master/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -81,6 +81,7 @@
       <workItem from="1746950532118" duration="364000" />
       <workItem from="1746951110657" duration="681000" />
       <workItem from="1746952601001" duration="504000" />
+      <workItem from="1746965473898" duration="2966000" />
     </task>
     <servers />
   </component>
