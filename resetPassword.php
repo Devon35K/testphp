@@ -93,11 +93,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     // If we get here, there were errors
     $_SESSION['reset_errors'] = $errors;
-    header("Location: forgotPassView.php?error=reset_failed");
+    header("Location: ../view/forgotPassView.php?error=reset_failed");
     exit;
 }
 
 // If not a POST request, redirect to forgot password page
-header("Location: forgotPassView.php");
+header("Location: ../view/forgotPassView.php");
 exit;
 ?>
